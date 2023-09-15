@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# React Quiz Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Description
 
-## Available Scripts
+A single-page React-based Quiz Application that allows users to answer multiple-choice questions, add questions from the backend, and receive a score after completing the quiz.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+### 1. Multiple Choice Questions
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Users can attempt multiple-choice questions presented on the quiz page.
+- Questions may have options, and users can select one or more correct answers.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 2. Add Questions from Backend
 
-### `npm test`
+- An administrative interface or backend API allows authorized users to add new multiple-choice questions to the quiz.
+- Questions should include options and correct answers.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 3. Scoring and Results
 
-### `npm run build`
+- After completing the quiz, users receive immediate feedback, including the number of correct answers.
+- Optionally, you can display the correct answers for review.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Getting Started
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Provide instructions on how to clone the repository, install dependencies, and run the application locally.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Technology Stack
 
-### `npm run eject`
+List the technologies and libraries used for the project, both on the frontend and backend if applicable.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Project Status
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Describe the current status of the project. Is it in development, production-ready, or are there any notable milestones?
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Contributing
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Explain how contributors can get involved, such as forking the repository, creating pull requests, and any contribution guidelines.
 
-## Learn More
+## License
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Specify the license under which the project is distributed. Include a link to the full license file if available.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Acknowledgments
 
-### Code Splitting
+Optional section to acknowledge any libraries, resources, or individuals that contributed to the project's development.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Contact
 
-### Analyzing the Bundle Size
+Provide contact information or links to reach out to the project maintainer.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
