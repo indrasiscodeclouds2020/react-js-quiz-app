@@ -9,12 +9,11 @@ A single-page React-based Quiz Application that allows users to answer multiple-
 ### 1. Multiple Choice Questions
 
 - Users can attempt multiple-choice questions presented on the quiz page.
-- Questions may have options, and users can select one or more correct answers.
+- Questions may have options, and users can select one correct answers.
 
 ### 2. Add Questions from Backend
 
 - An administrative interface or backend API allows authorized users to add new multiple-choice questions to the quiz.
-- Questions should include options and correct answers.
 
 ### 3. Scoring and Results
 
@@ -23,29 +22,16 @@ A single-page React-based Quiz Application that allows users to answer multiple-
 
 ## Getting Started
 
-Provide instructions on how to clone the repository, install dependencies, and run the application locally.
+To getting started, download the project repository, run npm install, all the dependencies will get installed.
+
+using "npm start" to view the output.
 
 ## Technology Stack
 
-List the technologies and libraries used for the project, both on the frontend and backend if applicable.
+React JS
 
 ## Project Status
 
-Describe the current status of the project. Is it in development, production-ready, or are there any notable milestones?
+It is a basic application, so that, it can be used to achieve the basic requirement. Further on this the project scope can be enhanced in furture if needed.
 
-## Contributing
-
-Explain how contributors can get involved, such as forking the repository, creating pull requests, and any contribution guidelines.
-
-## License
-
-Specify the license under which the project is distributed. Include a link to the full license file if available.
-
-## Acknowledgments
-
-Optional section to acknowledge any libraries, resources, or individuals that contributed to the project's development.
-
-## Contact
-
-Provide contact information or links to reach out to the project maintainer.
-
+Thanks,
